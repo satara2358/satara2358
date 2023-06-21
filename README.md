@@ -1,4 +1,6 @@
 ### Hi there 👋
+![IMG-20210315-WA0031 (2)](https://github.com/satara2358/satara2358/assets/25549072/89f91061-7703-405f-ac9b-4e8305c6e081)()
+
 
 - 🔭 Mi rol principal es colaborar en el diseño de aplicaciones y sistemas informáticos. Trabajo en estrecha colaboración, participando en reuniones de planificación y aportando ideas creativas para mejorar la eficiencia y la calidad de los productos. Estoy emocionado de aprender y crecer en este rol, adquiriendo experiencia práctica y desarrollando mis habilidades como ingeniero de software. Además, aprovecho todas las oportunidades para ampliar mis conocimientos técnicos y mantenerme actualizado sobre las últimas tecnologías y tendencias en el campo de la ingeniería informática.
   
