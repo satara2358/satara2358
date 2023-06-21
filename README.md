@@ -31,9 +31,9 @@
      }
 ```
 Pueden buscarme en 📫 :
-- [Twitter] (https://twitter.com/Tecnopolispasto)
-- [BLOG] (https://inteligenciaartificialtec.club.hotmart.com/login)
-- [Discord] (https://discord.com/channels/@finalgame)
+- [Twitter](https://twitter.com/Tecnopolispasto)
+- [BLOG](https://inteligenciaartificialtec.club.hotmart.com/login)
+- [Discord](https://discord.com/channels/@finalgame)
 - [satara]
 - [satara2358]
 - [tecnopolis]
