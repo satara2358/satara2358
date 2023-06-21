@@ -4,17 +4,17 @@
   
 - 🌱 Además, tengo un gran interés en desarrollar habilidades en tecnologías web modernas como React, JavaScript, Vite, Astro y Vercel. Estoy enfocándome en aprender y dominar estas herramientas para crear aplicaciones web interactivas y de alto rendimiento. Estoy siguiendo tutoriales, trabajando en proyectos personales para mejorar mis habilidades en estas tecnologías.
 
-React me fascina por su enfoque en componentes reutilizables y su capacidad para construir interfaces de usuario dinámicas. Estoy trabajando en la creación de componentes y la gestión del estado de la aplicación utilizando React Hooks.
+  React me fascina por su enfoque en componentes reutilizables y su capacidad para construir interfaces de usuario dinámicas. Estoy trabajando en la creación de componentes y la gestión del estado de la aplicación utilizando React Hooks.
 
-En cuanto a JavaScript, estoy profundizando mis conocimientos en el lenguaje y explorando sus capacidades para construir aplicaciones web modernas. Estoy practicando conceptos avanzados de JavaScript, como programación orientada a objetos, promesas y async/await.
+  En cuanto a JavaScript, estoy profundizando mis conocimientos en el lenguaje y explorando sus capacidades para construir aplicaciones web modernas. Estoy practicando conceptos avanzados de JavaScript, como programación orientada a objetos, promesas y async/await.
 
-Vite es una herramienta de construcción rápida para proyectos de JavaScript y TypeScript, y estoy experimentando con su uso para agilizar el proceso de desarrollo y optimizar el rendimiento de mis aplicaciones web.
+  Vite es una herramienta de construcción rápida para proyectos de JavaScript y TypeScript, y estoy experimentando con su uso para agilizar el proceso de desarrollo y optimizar el rendimiento de mis aplicaciones web.
 
-Astro es una tecnología que me resulta interesante, ya que permite crear sitios web estáticos y dinámicos utilizando componentes de diferentes marcos y bibliotecas. Estoy aprendiendo cómo aprovechar Astro para crear experiencias web rápidas y eficientes.
+  Astro es una tecnología que me resulta interesante, ya que permite crear sitios web estáticos y dinámicos utilizando componentes de diferentes marcos y bibliotecas. Estoy aprendiendo cómo aprovechar Astro para crear experiencias web rápidas y eficientes.
 
-Por último, estoy explorando Vercel como plataforma de alojamiento y despliegue para mis aplicaciones web. Quiero Familiarizarme con sus características, como el enrutamiento optimizado, la escalabilidad y el rendimiento global.
+  Por último, estoy explorando Vercel como plataforma de alojamiento y despliegue para mis aplicaciones web. Quiero Familiarizarme con sus características, como el enrutamiento optimizado, la escalabilidad y el rendimiento global.
 
-En resumen, estoy entusiasmado por mejorar mis habilidades en React, JavaScript, Vite, Astro y Vercel, ya que considero que son tecnologías fundamentales para el desarrollo web moderno. Estoy comprometido con el aprendizaje continuo y la aplicación práctica de estas herramientas en proyectos desafiantes y emocionantes.
+  En resumen, estoy entusiasmado por mejorar mis habilidades en React, JavaScript, Vite, Astro y Vercel, ya que considero que son tecnologías fundamentales para el desarrollo web moderno. Estoy comprometido con el aprendizaje continuo y la aplicación práctica de estas herramientas en proyectos desafiantes y emocionantes.
 
 - 🤔 Busco ayuda en () =>{
   React: Puedes explorar el repositorio oficial de React en GitHub para obtener la documentación oficial, ejemplos de código y recursos adicionales.
