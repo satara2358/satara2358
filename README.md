@@ -26,7 +26,7 @@
      Enlace: ['https://github.com/vitejs/vite'],
      Awesome_Astro: ['Similar a Awesome React, este repositorio recopila una lista de recursos y herramientas relacionadas con Astro, incluyendo componentes, plantillas y ejemplos.'],
      Enlace: ['https://github.com/sergiodxa/awesome-astro']
-}
+     }
 ```
 <!---
 -💬 Pregúntame sobre los aspectos éticos de la Inteligencia Artificial (IA), como la privacidad de los datos, sesgos algorítmicos, transparencia y explicabilidad de los modelos de IA, responsabilidad y toma de decisiones éticas, impacto social y laboral de la IA, entre otros temas relacionados. Estoy aquí para brindarte información y discutir cualquier pregunta o inquietud que tengas sobre la ética en la IA.
