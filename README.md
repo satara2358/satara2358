@@ -16,9 +16,9 @@
 
   En resumen, estoy entusiasmado por mejorar mis habilidades en React, JavaScript, Vite, Astro y Vercel, ya que considero que son tecnologías fundamentales para el desarrollo web moderno. Estoy comprometido con el aprendizaje continuo y la aplicación práctica de estas herramientas en proyectos desafiantes y emocionantes.
 
-- 🤔 Busco ayuda en () =>{
-  React: Puedes explorar el repositorio oficial de React en GitHub para obtener la documentación oficial, ejemplos de código y recursos adicionales.
-  Enlace: https://github.com/facebook/react
+- 🤔 const help = {
+  React: ['Puedes explorar el repositorio oficial de React en GitHub para obtener la documentación oficial, ejemplos de código y recursos adicionales:',
+  'Enlace: https://github.com/facebook/react']
   Awesome React: Este repositorio recopila una lista curada de recursos útiles, bibliotecas, componentes y herramientas relacionados con React.
   Enlace: https://github.com/enaqx/awesome-react
   Vite: El repositorio oficial de Vite en GitHub contiene la documentación, ejemplos y problemas relacionados con esta herramienta de construcción rápida para proyectos JavaScript y TypeScript.
