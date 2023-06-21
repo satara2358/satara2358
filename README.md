@@ -30,14 +30,18 @@
      Enlace: ['https://github.com/sergiodxa/awesome-astro']
      }
 ```
-<!---
--💬 Pregúntame sobre los aspectos éticos de la Inteligencia Artificial (IA), como la privacidad de los datos, sesgos algorítmicos, transparencia y explicabilidad de los modelos de IA, responsabilidad y toma de decisiones éticas, impacto social y laboral de la IA, entre otros temas relacionados. Estoy aquí para brindarte información y discutir cualquier pregunta o inquietud que tengas sobre la ética en la IA.
-
-- 📫 Pueden buscarme en:
+Pueden buscarme en 📫 :
 - [Twitter] (https://twitter.com/Tecnopolispasto)
 - [BLOG] (https://inteligenciaartificialtec.club.hotmart.com/login)
 - [Discord] (https://discord.com/channels/@finalgame)
+- [satara]
+- [satara2358]
+- [tecnopolis]
+- [tecnopolispasto]
 
-- 😄 satara   satara2358   tecnopolis   tecnopolispasto
-- ⚡ "El futuro no ha sido escrito. No hay destino más que lo que hacemos para nosotros mismos." (John Connor)"
--->
+<!---
+-💬 Pregúntame sobre los aspectos éticos de la Inteligencia Artificial (IA), como la privacidad de los datos, sesgos algorítmicos, transparencia y explicabilidad de los modelos de IA, responsabilidad y toma de decisiones éticas, impacto social y laboral de la IA, entre otros temas relacionados. Estoy aquí para brindarte información y discutir cualquier pregunta o inquietud que tengas sobre la ética en la IA.
+
+
+⚡ "El futuro no ha sido escrito. No hay destino más que lo que hacemos para nosotros mismos. (John Connor)"
+
