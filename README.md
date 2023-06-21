@@ -16,17 +16,20 @@
 
   En resumen, estoy entusiasmado por mejorar mis habilidades en React, JavaScript, Vite, Astro y Vercel, ya que considero que son tecnologías fundamentales para el desarrollo web moderno. Estoy comprometido con el aprendizaje continuo y la aplicación práctica de estas herramientas en proyectos desafiantes y emocionantes.
 
-- 🤔 const help = {
-  React: ['Puedes explorar el repositorio oficial de React en GitHub para obtener la documentación oficial, ejemplos de código y recursos adicionales:',
-  'Enlace: https://github.com/facebook/react']
-  Awesome React: Este repositorio recopila una lista curada de recursos útiles, bibliotecas, componentes y herramientas relacionados con React.
-  Enlace: https://github.com/enaqx/awesome-react
-  Vite: El repositorio oficial de Vite en GitHub contiene la documentación, ejemplos y problemas relacionados con esta herramienta de construcción rápida para proyectos JavaScript y TypeScript.
-  Enlace: https://github.com/vitejs/vite
-  Awesome Astro: Similar a Awesome React, este repositorio recopila una lista de recursos y herramientas relacionadas con Astro, incluyendo componentes, plantillas y ejemplos.
-  Enlace: https://github.com/sergiodxa/awesome-astro
+  ``` js
+   const help = {
+     React: ['Puedes explorar el repositorio oficial de React en GitHub para obtener la documentación oficial, ejemplos de código y recursos adicionales:'],
+     Enlace: ['https://github.com/facebook/react'],
+     Awesome_React: ['Este repositorio recopila una lista curada de recursos útiles, bibliotecas, componentes y herramientas relacionados con React.'],
+     Enlace: ['https://github.com/enaqx/awesome-react'],
+     Vite: ['El repositorio oficial de Vite en GitHub contiene la documentación, ejemplos y problemas relacionados con esta herramienta de construcción rápida para proyectos JavaScript y TypeScript.'],
+     Enlace: ['https://github.com/vitejs/vite'],
+     Awesome_Astro: ['Similar a Awesome React, este repositorio recopila una lista de recursos y herramientas relacionadas con Astro, incluyendo componentes, plantillas y ejemplos.'],
+     Enlace: ['https://github.com/sergiodxa/awesome-astro']
 }
-- 💬 Pregúntame sobre los aspectos éticos de la Inteligencia Artificial (IA), como la privacidad de los datos, sesgos algorítmicos, transparencia y explicabilidad de los modelos de IA, responsabilidad y toma de decisiones éticas, impacto social y laboral de la IA, entre otros temas relacionados. Estoy aquí para brindarte información y discutir cualquier pregunta o inquietud que tengas sobre la ética en la IA.
+```
+<!---
+-💬 Pregúntame sobre los aspectos éticos de la Inteligencia Artificial (IA), como la privacidad de los datos, sesgos algorítmicos, transparencia y explicabilidad de los modelos de IA, responsabilidad y toma de decisiones éticas, impacto social y laboral de la IA, entre otros temas relacionados. Estoy aquí para brindarte información y discutir cualquier pregunta o inquietud que tengas sobre la ética en la IA.
 - 📫 => https://twitter.com/Tecnopolispasto  => https://inteligenciaartificialtec.club.hotmart.com/login => https://discord.com/channels/@finalgame.
 - 😄 satara   satara2358   tecnopolis   tecnopolispasto
 - ⚡ "El futuro no ha sido escrito. No hay destino más que lo que hacemos para nosotros mismos." (John Connor)"
