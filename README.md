@@ -32,17 +32,21 @@ const nicks = {
 
 <h4 align="left">Conéctate conmigo:</h4>
 <p align="left">
-  <a href="https://twitter.com/tecnopolispasto " target="en blanco">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg " alt="tecnopolispasto" width="30px" height="40px />
+  <a href="https://twitter.com/tecnopolispasto" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+      alt="tecnopolispasto" width="30px" height="40px />
   </a>
-  <a href="https://fb.com/noc.gpi" target="blank">
-    <img align=" centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noc.gpi" height="30" width="40" />
+  <a href="https://www.facebook.com/noc.gpi/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+      alt="noc.gpi" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@raulpena6420" target="blank">
-    <img align="center" src="https://yt3.ggpht.com/ytc/AGIKgqOGb9UMMxN1pWUlGRA1L4Dh8Npzt9J-rVPskPosDA=s176-c-k-c0x00ffffff-no-rj" alt="@raulpena6420" height="30" width="40" />
+  <a href="https://www.youtube.com/@raulpena6420" target="_blank" rel="noreferrer">
+    <img src="https://yt3.ggpht.com/ytc/AGIKgqOGb9UMMxN1pWUlGRA1L4Dh8Npzt9J-rVPskPosDA=s176-c-k-c0x00ffffff-no-rj" 
+      alt="@raulpena6420" height="30" width="40" />
   </a> 
-  <a href="https:
-/ /discord.gg/https://discord.gg/r8n8udRM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/discord.svg" alt="https://discord.gg/r8n8udRM" height="30" width="40" />
+  <a href="https://discord.gg/https://discord.gg/r8n8udRM" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
+      alt="https://discord.gg/r8n8udRM" height="30" width="40" />
   </a> 
 </p>
 
@@ -51,7 +55,7 @@ const nicks = {
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/> 
   </a> 
-  <a href="https://angular.io " target="_blank" rel="noreferrer"> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35" height=" 35"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -112,4 +116,4 @@ const nicks = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/> 
   </a> 
 </p>
-- ⚡ Dato curioso **"El futuro no ha sido escrito . No hay destino más que lo que hacemos para nosotros mismos. (John Connor)"**
+- ⚡ **"El futuro no ha sido escrito . No hay destino más que lo que hacemos para nosotros mismos. (John Connor)"**
