@@ -18,6 +18,7 @@
 - **[Twitter](https://twitter.com/Tecnopolispasto)**
 - **[BLOG-Elementos Para Aprender Inteligencia Artificial](https://inteligenciaartificialtec.club.hotmart.com/login)**
 - **[Discord](https://discord.com/channels/@finalgame)**
+- Trabajo actualmente en proyectos similares:** **[Generador de Peliculas](https://movie-generator-sand.vercel.app/)**
 
 ```js
 const nicks = {
