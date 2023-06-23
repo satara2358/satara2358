@@ -1,4 +1,4 @@
-![IMG_20210426_220913_BURST043 (2)](https://github.com/satara2358/satara2358/assets/25549072/2c8e2711-ee24-45cb-852e-f189bffa1c9a)
+![github](https://github.com/satara2358/satara2358/assets/25549072/19c3ef8b-15a1-49b1-a003-3d44854a981e)
 
 <h1 align="center">Hola, soy Raúl Peña</h1>
 <h3 align="center">Aprovecho las oportunidades para ampliar mis conocimientos técnicos y mantenerme actualizado sobre las últimas tecnologías y tendencias en el campo de la ingeniería.</h3>
