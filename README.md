@@ -2,9 +2,11 @@
     <img src="https://lustrous-swan-6d9f4a.netlify.app/_ipx/w_256,q_75/%2Ftecno.png?url=%2Ftecno.png&w=256&q=75" width="220px" height="42px" alt="tecnopolispasto" align="left"/>
     <img src="https://user-images.githubusercontent.com/25549072/279245606-0866dcf2-c4e8-4069-ad2b-7fc1066942a9.png" alt="Nena" />
 </p>
-<h1 align="center">Hola, soy Raúl Peña</h1> 
+
 <p align="right"> 
-    <img src="https://user-images.githubusercontent.com/25549072/279246930-e9a2c7df-0d85-49b6-a603-0114b973ffd8.svg" width="42px" height="42px"/>
+    <img src="https://user-images.githubusercontent.com/25549072/279246930-e9a2c7df-0d85-49b6-a603-0114b973ffd8.svg" width="42px" height="42px">
+            <h1 align="right">Hola, soy Raúl Peña</h1> 
+    </img>
 </p>
 <h3 align="center">Aprovecho las oportunidades para ampliar mis conocimientos técnicos y mantenerme actualizado sobre las últimas tecnologías y tendencias en el campo de la ingeniería.</h3>
 
